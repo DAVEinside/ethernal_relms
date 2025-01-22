@@ -2,7 +2,7 @@
 
 An interactive text-based RPG game with anime-style visuals, powered by AI. Create unique characters, explore magical realms, and engage in dynamic combat with AI-generated imagery.
 
-![Game Preview](![image](https://github.com/user-attachments/assets/871d00c4-7ea0-4c9b-a758-a5e7f8805968)
+(![image](https://github.com/user-attachments/assets/871d00c4-7ea0-4c9b-a758-a5e7f8805968)
 
 
 ## Features
@@ -23,8 +23,9 @@ Create your unique character by selecting:
 - Special Abilities
 - Character Goals
 
-![Character Creation](![image](https://github.com/user-attachments/assets/0fb46c82-c322-4f09-9002-bb2b130e17fa)
-)
+(![image](https://github.com/user-attachments/assets/f68bd45f-7b80-46dc-a797-69b11517566e)
+
+
 
 ### World Exploration
 Explore various locations with AI-generated scenery:
