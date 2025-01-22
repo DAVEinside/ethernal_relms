@@ -1,8 +1,9 @@
-# Anime-Themed AI Dungeon Master
+# Ethernal Relms - AI Based Dungeon Game
 
 An interactive text-based RPG game with anime-style visuals, powered by AI. Create unique characters, explore magical realms, and engage in dynamic combat with AI-generated imagery.
 
-![Game Preview](/docs/images/game-preview.png)
+(![image](https://github.com/user-attachments/assets/871d00c4-7ea0-4c9b-a758-a5e7f8805968)
+
 
 ## Features
 
@@ -22,7 +23,9 @@ Create your unique character by selecting:
 - Special Abilities
 - Character Goals
 
-![Character Creation](/docs/images/character-creation.png)
+(![image](https://github.com/user-attachments/assets/f68bd45f-7b80-46dc-a797-69b11517566e)
+
+
 
 ### World Exploration
 Explore various locations with AI-generated scenery:
@@ -31,7 +34,8 @@ Explore various locations with AI-generated scenery:
 - Mystic Forest
 - And more!
 
-![World Exploration](/docs/images/world-exploration.png)
+![World Exploration](![image](https://github.com/user-attachments/assets/6307326a-bce4-49a8-bacf-13a8dba78a15)
+
 
 ### Combat System
 Engage in tactical combat with:
@@ -40,7 +44,8 @@ Engage in tactical combat with:
 - Dynamic Combat Log
 - AI-Generated Combat Scenes
 
-![Combat System](/docs/images/combat-system.png)
+![Combat System](![image](https://github.com/user-attachments/assets/c5d033ff-9a34-46c8-8609-457e13f959bc)
+
 
 ## Technology Stack
 
