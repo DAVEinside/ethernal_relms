@@ -92,7 +92,7 @@ function App() {
       <div className="content-container min-h-screen text-white p-4">
         <div className="container mx-auto max-w-4xl">
           <h1 className="text-4xl font-bold text-center mb-8 card-float">
-            Anime-Themed AI Dungeon Master
+            Ethernal Relms - AI Based Dungeon Game
           </h1>
           
           {error && (
