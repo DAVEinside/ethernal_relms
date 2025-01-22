@@ -1,0 +1,29 @@
+{
+    "name": "anime-dm-frontend",
+    "private": true,
+    "version": "0.1.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
+    },
+    "devDependencies": {
+        "@types/react": "^18.2.15",
+        "@types/react-dom": "^18.2.7",
+        "@vitejs/plugin-react": "^4.3.4",
+        "autoprefixer": "^10.4.20",
+        "postcss": "^8.5.1",
+        "tailwindcss": "^3.4.17",
+        "vite": "^4.5.9"
+    },
+    "main": "tailwind.congif.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
