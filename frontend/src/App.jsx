@@ -9,7 +9,6 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
-    // Test backend connection
     fetch('http://localhost:8000/test')
       .catch(error => {
         setError('Unable to connect to server');
@@ -89,25 +88,29 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-900 text-white p-4">
-      <div className="container mx-auto max-w-4xl">
-        <h1 className="text-4xl font-bold text-center mb-8">
-          Anime-Themed AI Dungeon Master
-        </h1>
-        
-        {error && (
-          <div className="bg-red-600 text-white p-4 rounded mb-4 flex justify-between items-center">
-            <span>{error}</span>
-            <button 
-              onClick={() => setError(null)} 
-              className="ml-4 text-sm hover:underline"
-            >
-              Dismiss
-            </button>
+    <div className="app-background">
+      <div className="content-container min-h-screen text-white p-4">
+        <div className="container mx-auto max-w-4xl">
+          <h1 className="text-4xl font-bold text-center mb-8 card-float">
+            Anime-Themed AI Dungeon Master
+          </h1>
+          
+          {error && (
+            <div className="bg-red-600 text-white p-4 rounded mb-4 flex justify-between items-center glow-effect">
+              <span>{error}</span>
+              <button 
+                onClick={() => setError(null)} 
+                className="ml-4 text-sm hover:underline"
+              >
+                Dismiss
+              </button>
+            </div>
+          )}
+          
+          <div className="glow-effect rounded-lg">
+            {renderMainContent()}
           </div>
-        )}
-        
-        {renderMainContent()}
+        </div>
       </div>
     </div>
   );

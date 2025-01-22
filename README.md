@@ -172,4 +172,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 
 Nimit Dave
-Project Link: [\[https://github.com/yourusername/anime-ai-dungeon](https://github.com/DAVEinside/ethernal_relms.git)
+Project Link: [\(https://github.com/DAVEinside/ethernal_relms.git)](https://github.com/DAVEinside/ethernal_relms.git)
