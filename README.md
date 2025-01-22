@@ -35,7 +35,7 @@ Explore various locations with AI-generated scenery:
 - And more!
 
 ![World Exploration](![image](https://github.com/user-attachments/assets/6307326a-bce4-49a8-bacf-13a8dba78a15)
-)
+
 
 ### Combat System
 Engage in tactical combat with:
@@ -45,7 +45,7 @@ Engage in tactical combat with:
 - AI-Generated Combat Scenes
 
 ![Combat System](![image](https://github.com/user-attachments/assets/c5d033ff-9a34-46c8-8609-457e13f959bc)
-)
+
 
 ## Technology Stack
 
